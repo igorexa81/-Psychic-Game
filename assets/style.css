@@ -1,0 +1,83 @@
+body{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* color: #44444444; */
+    background-image: url("https://i.ibb.co/b2w1Vdw/background.jpg");
+
+}
+.jumbotron{
+    background-color: #000080;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1%;
+    margin-left: -1.5%;
+    padding-top: .5%;
+    padding-bottom: 2%;
+    width:106%;
+
+}
+
+text{
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h3{
+    color:white;
+}
+#selectedImage{
+    border-radius: 6px;
+    
+}
+
+#currentWord{
+    font-size: 24px;
+    color: white;
+}
+
+#guessesLeft{
+    font-size: 24px;
+    color: white;
+    
+}
+
+#lettersGuessed{
+    font-size: 24px;
+    color:white;
+
+}
+
+#wins{
+    font-size: 24px;
+    color:white;
+}
+
+#losses{
+    font-size: 24px;
+    color: white;
+}
+
+.left{
+    background-color:#000080 ;
+    /* border-radius: 15px; */
+    margin-right: -1%;
+    width: 790px;
+    
+}
+
+/* .right{ */
+    /* padding-right: 0; */
+/* } */
+
+/* .row{ */
+    /* border-radius: 6px; */
+/* } */
+
+.rowcenter-block-cols{
+    overflow: hidden;
+}
+
+
